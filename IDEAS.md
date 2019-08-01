@@ -8,3 +8,4 @@
 - Really nice web UI (read-only)
 - Commands are excusively github comments
   - Don't spam github issues to make them hard to read though!
+- Enforce wait time (24h?) between last update to branch and merge
